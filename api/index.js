@@ -24,7 +24,7 @@ bot.onText(/\/menu/, (msg) => {
     console.log(msg)
     bot.sendMessage(
         msg.chat.id,
-        `this is your main menu`
+        `Whatsupp? have a good day !`
     );   
 });
 
